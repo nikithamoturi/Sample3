@@ -1,2 +1,2 @@
 hello students
-Bye
+Welcome to SE class
